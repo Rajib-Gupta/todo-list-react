@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import {Header} from './header/header';
 import Todos from "./todo/todos";

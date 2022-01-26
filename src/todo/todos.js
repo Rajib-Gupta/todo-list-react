@@ -1,5 +1,4 @@
 import React from 'react';
-import AddTodo from './AddTodo';
 import Todolist from './Todo-list';
 
 export default function Todos(props) {
